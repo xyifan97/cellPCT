@@ -12,17 +12,17 @@ This package provide multiple visualizations for scRNA-seq cell type ratio. Incl
 
 |  Packages  |  Version  |
 |  :-------: |  :-----:  |
-|    dplyr   |   1.1.3   |
-| SeuratObject |  4.1.3  |
-|   ggplot2  |   3.4.3   |
-|   forcats  |   1.0.0   |
-| ggalluvial |  0.12.5   |
-|  cols4all  |   0.6     |
-| treemapify |   2.5.5   |
-|   ggradar  |    0.2    |
-|  circlize  |   0.4.15  |
-|ComplexHeatmap| 2.14.0  |
-|   grid     |   4.2.3   |
+|    dplyr   |   >=1.1.3   |
+| SeuratObject |  >=4.1.3  |
+|   ggplot2  |   >=3.4.3   |
+|   forcats  |   >=1.0.0   |
+| ggalluvial |  >=0.12.5   |
+|  cols4all  |   >=0.6     |
+| treemapify |   >=2.5.5   |
+|   ggradar  |    >=0.2    |
+|  circlize  |   >=0.4.15  |
+|ComplexHeatmap| >=2.14.0  |
+|   grid     |   >=4.2.3   |
 
 ## 1.2 Install from source
 
